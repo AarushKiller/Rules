@@ -1,0 +1,9 @@
+name: ServerRules
+version: '${project.version}'
+main: me.vrom.serverrules.ServerRules
+api-version: 1.18
+authors: [ Vrom ]
+description: A plugin to show custom server rules!
+
+commands:
+  rules:

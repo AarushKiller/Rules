@@ -1,0 +1,13 @@
+Rules:
+  Rules1: 'Configure the'
+  Rules2: 'messages in'
+  Rules3: 'config.yml'
+  Rules4: '&cAlso &9Supports &lColors'
+  Rules5: 'Example Rule'
+  Rules6: 'Example Rule'
+  Rules7: 'Example Rule'
+  Rules8: 'Example Rule'
+  Rules9: 'Example Rule'
+  Rules10: 'Example Rule'
+  Reload: '&eThe config has been successfully reloaded.'
+  noPerms: '&c4&l ERROR : &r&cPermission for this plugin is denied!'
